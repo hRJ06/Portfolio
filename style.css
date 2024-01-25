@@ -528,6 +528,10 @@ a{
 #project5{
   background-image: url(./images/projects/Project5.png);
 }
+#project6 {
+  background-image: url(https://github.com/hRJ06/Diamond-Price-Prediction/assets/123245585/980eb3ae-e31b-4664-832f-d6f18a1cea5c);
+  margin-left: 120px;
+}
 
 @media (max-width:1300px) {
   .page-header {
@@ -570,6 +574,9 @@ a{
     margin-left: 0;
   }
   #project4 {
+    margin-left: 0;
+  }
+  #project6 {
     margin-left: 0;
   }
   .project-skill-container {
